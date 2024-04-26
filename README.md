@@ -9,8 +9,11 @@ Developed using Laravel 9.52.16
 ## Installation 
 
 git clone https://github.com/kunmifab/laravel-restful-api-example.git
+
 cd laravel-restful-api-example
+
 composer install
+
 php artisan key:generate
 
 
